@@ -3,7 +3,7 @@
         display: block;
         width: 80%;
         margin: 0px auto;
-        margin-top: 6em;
+        margin-top: 2em;
     }
 
     .container {
@@ -18,7 +18,7 @@
     .texto {
         width: 80%;
         position: absolute;
-        top: 364px !important;
+        top: 340px !important;
         text-align: center;
         font-size: 12px;
         color: white;
