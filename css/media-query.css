@@ -1,9 +1,9 @@
-@media only screen and (max-width:480px) {
+@media only screen and (max-width:440px) {
     .contenedor {
         display: block;
         width: 80%;
         margin: 0px auto;
-        margin-top: 4em;
+        margin-top: 6em;
     }
 
     .container {
@@ -60,7 +60,7 @@
 
 }
 
-@media only screen and (min-width:480px) and (max-width:575px) {
+@media only screen and (min-width:440px) and (max-width:575px) {
     .contenedor {
         display: block;
         width: 80%;
