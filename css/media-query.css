@@ -1,0 +1,263 @@
+@media only screen and (max-width:480px) {
+    .contenedor {
+        display: block;
+        width: 80%;
+        margin: 0px auto;
+        margin-top: 4em;
+    }
+
+    .container {
+        width: 100%;
+        height: 60em;
+        margin: 0px auto;
+        margin-bottom: 20px;
+        border-radius: 10px;
+        background-color: #1C1938;
+    }
+
+    .texto {
+        width: 80%;
+        position: absolute;
+        top: 364px !important;
+        text-align: center;
+        font-size: 12px;
+        color: white;
+    }
+
+    .def-item {
+        width: 30%;
+        height: 18em;
+        margin: 0px auto
+    }
+
+    .sec-1 {
+        display: block;
+        width: 100%;
+        margin-bottom: 2em;
+        float: left;
+        text-align: center;
+    }
+
+    .h1 {
+        font-size: 36px;
+    }
+
+    .p-texto {
+        font-size: 20px;
+    }
+
+    .img-fondo {
+        width: 80%;
+        background-color: #A75BD0;
+        position: absolute;
+
+    }
+
+    .img-fondo img {
+        height: 300px;
+
+    }
+
+}
+
+@media only screen and (min-width:480px) and (max-width:575px) {
+    .contenedor {
+        display: block;
+        width: 80%;
+        margin: 0px auto;
+        margin-top: 4em;
+    }
+
+    .container {
+        width: 100%;
+        height: 60em;
+        margin: 0px auto;
+        margin-bottom: 20px;
+        border-radius: 10px;
+        background-color: #1C1938;
+    }
+
+    .texto {
+        width: 80%;
+        position: absolute;
+        top: 364px !important;
+        text-align: center;
+        font-size: 12px;
+        color: white;
+    }
+
+    .def-item {
+        width: 30%;
+        height: 18em;
+        margin: 0px auto
+    }
+
+    .sec-1 {
+        display: block;
+        width: 100%;
+        margin-bottom: 2em;
+        float: left;
+        text-align: center;
+    }
+
+    .h1 {
+        font-size: 36px;
+    }
+
+    .p-texto {
+        font-size: 20px;
+    }
+
+    .img-fondo {
+        width: 80%;
+        background-color: #A75BD0;
+        position: absolute;
+
+    }
+
+    .img-fondo img {
+        height: 300px;
+
+    }
+
+}
+
+@media only screen and (min-width:575px) and (max-width:768px) {
+    .contenedor {
+        display: block;
+        width: 80%;
+        margin: 0px auto;
+        margin-top: 4em;
+    }
+
+    .container {
+        width: 100%;
+        height: 60em;
+        margin: 0px auto;
+        margin-bottom: 20px;
+        border-radius: 10px;
+        background-color: #1C1938;
+    }
+
+    .texto {
+        width: 80%;
+        position: absolute;
+        top: 400px !important;
+        text-align: center;
+        font-size: 12px;
+        color: white;
+    }
+
+    .h1 {
+        font-size: 30px;
+    }
+
+    .p-texto {
+        font-size: 18px;
+    }
+
+    .img-fondo {
+        width: 80%;
+        background-color: #A75BD0;
+        position: absolute;
+    }
+
+    .img-fondo img {
+        height: 340px;
+
+    }
+
+    .sec-1 {
+        display: block;
+        width: 100%;
+        margin-bottom: 2em;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width:769px) and (max-width:968px) {
+    .contenedor {
+        display: block;
+        width: 80%;
+        margin: 0px auto;
+        margin-top: 4em;
+    }
+
+    .container {
+        width: 100%;
+        height: 60em;
+        margin: 0px auto;
+        margin-bottom: 20px;
+        border-radius: 10px;
+        background-color: #1C1938;
+    }
+
+    .texto {
+        width: 80%;
+        position: absolute;
+        top: 464px;
+        text-align: center;
+        font-size: 12px;
+        color: white;
+    }
+
+    .img-fondo {
+        width: 80%;
+        background-color: #A75BD0;
+        position: absolute;
+    }
+
+    .img-fondo img {
+        height: 400px;
+
+    }
+
+    .h1 {
+        font-size: 30px;
+    }
+
+    .p-texto {
+        font-size: 18px;
+    }
+
+    .sec-1 {
+        display: block;
+        margin-bottom: 1.2em;
+        text-align: center;
+        font-size: 20px;
+        width: 100%;
+    }
+
+    .def-item {
+        margin-top: 0px;
+    }
+}
+
+@media only screen and (min-width:969px) and (max-width:1024px) {
+    .contenedor {
+        display: block;
+        width: 80%;
+        margin: 0px auto;
+        margin-top: 4em;
+    }
+
+    .container {
+        width: 100%;
+        height: 30em;
+        margin: 0px auto;
+        margin-bottom: 20px;
+        border-radius: 10px;
+        background-color: #1C1938;
+    }
+
+    .texto {
+        width: 50%;
+        font-size: 12px;
+        color: white;
+    }
+
+    .def-item {
+        margin-top: 0px;
+    }
+}
